@@ -29,7 +29,59 @@ export const MSG = {
 
     COMPONENTS: {
         HOME : {
+            BANNER : [
+                {
+                    imgUrl : "banner/banner1.jpg",
+                    alt : "banner1"
+                },
+                {
+                    imgUrl : "banner/banner2.jpg",
+                    alt : "banner2"
+                },
+            ],
 
+            CARD : [
+                {
+                    productName : "Peanut Butter1",
+                    imgUrl : "products/butter1.jpg",
+                    alt : "Peanut Butter1"
+                },
+                {
+                    productName : "Peanut Butter2",
+                    imgUrl : "products/butter1.jpg",
+                    alt : "Peanut Butter2"
+                },
+                {
+                    productName : "Peanut Butter3",
+                    imgUrl : "products/butter1.jpg",
+                    alt : "Peanut Butter3"
+                },
+                {
+                    productName : "Peanut Butter4",
+                    imgUrl : "products/butter1.jpg",
+                    alt : "Peanut Butter4"
+                },
+                {
+                    productName : "Peanut Butter5",
+                    imgUrl : "products/butter1.jpg",
+                    alt : "Peanut Butter5"
+                },
+                {
+                    productName : "Peanut Butter6",
+                    imgUrl : "products/butter1.jpg",
+                    alt : "Peanut Butter6"
+                },
+                {
+                    productName : "Peanut Butter7",
+                    imgUrl : "products/butter1.jpg",
+                    alt : "Peanut Butter7"
+                },
+                {
+                    productName : "Peanut Butter8",
+                    imgUrl : "products/butter1.jpg",
+                    alt : "Peanut Butter8"
+                },
+            ]
         },
         MENU : {
 
